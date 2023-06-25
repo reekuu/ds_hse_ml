@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reekuu/ds_hse_ml/blob/main/notebooks/airline_customer_satisfaction_analysis.ipynb]
+
 # Исследование удовлетворенности клиентов авиакомпании
 
 Проект включает в себя проведение разведочного анализа данных, построение моделей машинного обучения и разработку веб-сервиса на основе [Streamlit](https://streamlit.io), реализующего исследования и модели в виде интерактивного дашборда.
