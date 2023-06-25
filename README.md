@@ -1,6 +1,6 @@
 # Исследование удовлетворенности клиентов авиакомпании
 
-Проект включает в себя проведение разведочного анализа данных, построение моделей машинного обучения и разработку веб-сервиса, реализующего исследования и модели в виде интерактивного дашборда.
+Проект включает в себя проведение разведочного анализа данных, построение моделей машинного обучения и разработку веб-сервиса на основе [Streamlit](https://streamlit.io), реализующего исследования и модели в виде интерактивного дашборда.
 
 ## Описание
 
@@ -14,9 +14,9 @@
 
 Признаки включают в себя пол клиента, возраст, лояльность авиакомпании, тип поездки, класс обслуживания, дальность перелета, задержки прибытия и отправления, оценки различных аспектов полета и обслуживания.
 
-Источник датасета: https://raw.githubusercontent.com/evgpat/edu_stepik_from_idea_to_mvp/main/datasets/clients.csv
+[Ссылка на исходный датасет](https://raw.githubusercontent.com/evgpat/edu_stepik_from_idea_to_mvp/main/datasets/clients.csv)
 
-[Отчет о профилировании (Pandas Profiling)](https://github.com/reekuu/ds_hse_ml/blob/main/notebooks/profiling_report.html)
+[Отчет о профилировании (Pandas Profiling)](https://htmlpreview.github.io/?https://github.com/reekuu/ds_hse_ml/blob/main/notebooks/profiling_report.html)
 
 ## Методика
 
