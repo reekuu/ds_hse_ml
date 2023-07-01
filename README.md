@@ -35,18 +35,6 @@
 
 ## Зависимости
 
-- catboost
-- joblib
-- matplotlib
-- numpy
-- pandas
-- scikit-learn
-- seaborn
-- shap
-- streamlit
-- tqdm
-- ydata_profiling
-
 Необходимые версии библиотек указаны в файле requirements.txt. Для установки рекомендуется использовать pip:
 
 ```bash
